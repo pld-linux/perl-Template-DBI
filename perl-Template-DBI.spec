@@ -7,7 +7,7 @@
 %define		pdir	Template
 %define		pnam	DBI
 Summary:	DBI plugin for Template Toolkit - database access
-Summary(pl.UTF-8):   Wtyczka DBI dla pakietu Template Toolkit - dostęp do baz danych
+Summary(pl.UTF-8):	Wtyczka DBI dla pakietu Template Toolkit - dostęp do baz danych
 Name:		perl-Template-DBI
 Version:	2.64
 Release:	1
