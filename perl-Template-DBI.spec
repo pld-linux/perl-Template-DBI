@@ -7,7 +7,7 @@
 %define		pdir	Template
 %define		pnam	DBI
 Summary:	DBI plugin for Template Toolkit - database access
-Summary(pl):	Wtyczka DBI dla pakietu Template Toolkit - dostêp do baz danych
+Summary(pl.UTF-8):   Wtyczka DBI dla pakietu Template Toolkit - dostÄ™p do baz danych
 Name:		perl-Template-DBI
 Version:	2.64
 Release:	1
@@ -40,12 +40,12 @@ an interface via the Tie::DBI module (if installed on your system) so
 that you can access database records without having to embed any SQL
 in your templates.
 
-%description -l pl
-Wtyczka DBI dla pakietu Template Toolkit - bêd±ca interfejsem do
-modu³u DBI. Daje dostêp do modu³ów Perla DBI/DBD, pozwalaj±c na
-integrowanie zapytañ SQL do dokumentów szablonów. Udostêpnia tak¿e
-interfejs poprzez modu³ Tie::DBI (je¶li jest zainstalowany), co
-pozwala na dostêp do rekordów bazy danych bez potrzeby osadzania SQL-a
+%description -l pl.UTF-8
+Wtyczka DBI dla pakietu Template Toolkit - bÄ™dÄ…ca interfejsem do
+moduÅ‚u DBI. Daje dostÄ™p do moduÅ‚Ã³w Perla DBI/DBD, pozwalajÄ…c na
+integrowanie zapytaÅ„ SQL do dokumentÃ³w szablonÃ³w. UdostÄ™pnia takÅ¼e
+interfejs poprzez moduÅ‚ Tie::DBI (jeÅ›li jest zainstalowany), co
+pozwala na dostÄ™p do rekordÃ³w bazy danych bez potrzeby osadzania SQL-a
 w szablonach.
 
 %prep
