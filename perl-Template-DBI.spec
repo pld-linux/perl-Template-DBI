@@ -9,7 +9,7 @@ Summary:	DBI plugin for Template Toolkit - database access
 Summary(pl.UTF-8):	Wtyczka DBI dla pakietu Template Toolkit - dostęp do baz danych
 Name:		perl-Template-DBI
 Version:	2.64
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or or Artistic
 Group:		Development/Languages/Perl
